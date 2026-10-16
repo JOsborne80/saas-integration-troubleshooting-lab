@@ -63,3 +63,14 @@ The response contained the following fields:
 - Investigate simulated webhook delivery failures.
 - Practice diagnosing authentication and server errors.
 - Apply a structured troubleshooting workflow to SaaS integration scenarios.
+
+## Screenshots
+
+### HTTP 304 Not Modified
+![HTTP 304 response in Chrome DevTools](http-304-not-modified.png)
+
+### HTTP 200 OK
+![HTTP 200 response in Chrome DevTools](http-200-ok.png)
+
+### JSON Response
+![JSON response in Chrome DevTools](json-response.png)
