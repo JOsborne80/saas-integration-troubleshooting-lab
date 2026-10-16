@@ -78,6 +78,3 @@ The PowerShell filter correctly isolated the failed attempt.
 
 **Lab note:** This exercise used fictional delivery records. No live webhook request, credential renewal, or CRM synchronization was performed.
 
-## Investigation Screenshot
-
-![PowerShell webhook delivery investigation](webhook-delivery-investigation.png)
