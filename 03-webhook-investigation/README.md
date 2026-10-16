@@ -67,7 +67,7 @@ The PowerShell filter correctly isolated the failed attempt.
 
 ## Screenshot
 
-![PowerShell webhook delivery investigation](webhook-delivery-investigation.png)
+![PowerShell webhook delivery investigation] (webhook-delivery-investigation.png.png)
 
 ## Key Takeaways
 
