@@ -67,10 +67,10 @@ The response contained the following fields:
 ## Screenshots
 
 ### HTTP 304 Not Modified
-![HTTP 304 response](screenshots/http-304-not-modified.png)
+![HTTP 304 response](screenshots/http-304-not-modified.png.png)
 
 ### HTTP 200 OK
-![HTTP 200 response](screenshots/http-200-ok.png)
+![HTTP 200 response](screenshots/http-200-ok.png.png)
 
 ### JSON Response
-![JSON response](screenshots/json-response.png)
+![JSON response](screenshots/json-response.png.png)
