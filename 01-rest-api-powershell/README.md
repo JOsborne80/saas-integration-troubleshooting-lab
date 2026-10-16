@@ -20,6 +20,11 @@ Invoke-RestMethod -Uri "https://jsonplaceholder.typicode.com/posts/1" -Method Ge
 
 Result: Successfully retrieved structured data containing userId, id, title, and body.
 
+## Screenshot
+
+### Successful REST API GET Request
+![REST API GET request using PowerShell](rest-api-get-request.png.png)
+
 Test 2: Inspect HTTP Response
 
 Invoke-WebRequest -Uri "https://jsonplaceholder.typicode.com/posts/1" -Method Get -UseBasicParsing | Select-Object StatusCode, StatusDescription, Content
@@ -29,6 +34,11 @@ Observed result:
 HTTP status: 200 OK
 
 Response content: JSON
+
+## Screenshot
+
+### HTTP 200 OK Response
+![HTTP 200 OK response using PowerShell](rest-api-http-200.png.png)
 
 Troubleshooting Observations
 
@@ -59,3 +69,6 @@ Practice additional HTTP response scenarios.
 Investigate network requests using browser developer tools.
 
 Revisit Postman for hands-on API testing once its connection issues are resolved.
+
+
+
